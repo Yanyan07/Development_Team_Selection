@@ -1,11 +1,11 @@
 # Development_Team_Selection
 
-# Selection some employees to form a development team
+Selection some employees to form a development team
 
-# Requires:
+Requires:
   one architect at most, two designers at most, three programmers at most
   
- # Functions:
+Functions:
   1. team member list 
   2.add member into the team
   3.delete member from the team
